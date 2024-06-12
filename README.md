@@ -1,1 +1,1 @@
-# TIC_TAC_TOE
+This project implements a classic Tic-Tac-Toe game for two players, one human and one controlled by the computer. The human player interacts with the game by entering numbers corresponding to the cells on the board (0-8). The computer uses a basic AI logic to make its moves, prioritizing forming winning lines or blocking the opponent's attempts.# TIC_TAC_TOE
